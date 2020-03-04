@@ -12,4 +12,5 @@ import foo.bar.data.model.Person;
  */
 @Repository
 public interface PersonRepository extends CrudRepository<Person, Long> {
+	// change
 }
